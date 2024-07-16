@@ -1,0 +1,87 @@
+# .gitignore for C#, Go, and Bootstrap
+
+# Ignore .NET build results
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.config
+*.ide
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono auto generated files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.vscode/*
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Go build results
+bin/
+pkg/
+*.exe
+*.out
+
+# Go workspace file
+go.work
+
+# Ignore Go vendor directory
+vendor/
+
+# Go testing
+*.test
+*.coverprofile
+*.cover.out
+
+# Ignore Bootstrap compiled files
+node_modules/
+dist/
+bootstrap/
+
+
+# Log files
+*.log
+
+# Ignore dependencies
+*.lock
+
+# Ignore package management files
+*.env
+
+# OS generated files
+.DS_Store
+*.swp
+._*
+
+# Ignore any other temporary files
+*.tmp

@@ -23,3 +23,7 @@ C:\Users\Ak\Desktop\Proj\CSharpDotNetCore\NewApp\obj\Debug\net8.0\refint\NewApp.
 C:\Users\Ak\Desktop\Proj\CSharpDotNetCore\NewApp\obj\Debug\net8.0\NewApp.pdb
 C:\Users\Ak\Desktop\Proj\CSharpDotNetCore\NewApp\obj\Debug\net8.0\NewApp.genruntimeconfig.cache
 C:\Users\Ak\Desktop\Proj\CSharpDotNetCore\NewApp\obj\Debug\net8.0\ref\NewApp.dll
+c:\Users\Ak\Desktop\Proj\CSharpDotNetCore\NewApp\obj\Debug\net8.0\NewApp.sourcelink.json
+C:\Users\Ak\Desktop\Proj\CSharpDotNetCore\NewApp\obj\Debug\net8.0\NewApp.RazorAssemblyInfo.cache
+C:\Users\Ak\Desktop\Proj\CSharpDotNetCore\NewApp\obj\Debug\net8.0\NewApp.RazorAssemblyInfo.cs
+C:\Users\Ak\Desktop\Proj\CSharpDotNetCore\NewApp\bin\Debug\net8.0\NewApp.staticwebassets.runtime.json
